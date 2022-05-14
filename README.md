@@ -22,3 +22,24 @@ Minimum spanning tree using Prims' Algorithm:
  <br>
  Steps to run-<br>
 [clone git ptoject -> import project->build->Run Prims.cpp]<br>
+
+br>
+<b><u>Kruskals Algorithm:</b></u><br>
+-------------------SAMPLE INPUT--------------------<br>
+Please give nodes & edges5 7<br>
+Please give X, Y & weight of edge1 2 1<br>
+Please give X, Y & weight of edge1 3 7<br>
+Please give X, Y & weight of edge1 4 10<br>
+Please give X, Y & weight of edge1 5 5<br>
+Please give X, Y & weight of edge2 3 3<br>
+Please give X, Y & weight of edge3 4 4<br>
+Please give X, Y & weight of edge4 5 2<br>
+<br>
+-------------------SAMPLE OUTPUT--------------------<br>
+Using Kruskals' Algorithm, minimum cost is: 10<br>
+
+ <br>
+ Steps to run-<br>
+[clone git ptoject -> import project->build->Run Kruskals.cpp]<br>
+
+
