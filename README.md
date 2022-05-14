@@ -23,7 +23,7 @@ Minimum spanning tree using Prims' Algorithm:
  Steps to run-<br>
 [clone git ptoject -> import project->build->Run Prims.cpp]<br>
 
-br>
+<br>
 <b><u>Kruskals Algorithm:</b></u><br>
 -------------------SAMPLE INPUT--------------------<br>
 Please give nodes & edges5 7<br>
